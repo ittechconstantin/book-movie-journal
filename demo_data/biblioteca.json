@@ -1,0 +1,52 @@
+[
+  {
+    "titlu": "Foundation",
+    "tip": "carte",
+    "autor": "Isaac Asimov",
+    "an": 1951,
+    "stare": "terminat",
+    "rating": 5,
+    "data_terminarii": "2026-03-12",
+    "notite": "Inceputul unei serii excelente."
+  },
+  {
+    "titlu": "The Godfather",
+    "tip": "film",
+    "autor": "Francis Ford Coppola",
+    "an": 1972,
+    "stare": "terminat",
+    "rating": 4,
+    "data_terminarii": "2025-11-02",
+    "notite": "Clasic, dar lung."
+  },
+  {
+    "titlu": "Brave New World",
+    "tip": "carte",
+    "autor": "Aldous Huxley",
+    "an": 1932,
+    "stare": "in curs",
+    "rating": null,
+    "data_terminarii": null,
+    "notite": "La jumatate, merge greu."
+  },
+  {
+    "titlu": "Blade Runner 2049",
+    "tip": "film",
+    "autor": "Denis Villeneuve",
+    "an": 2017,
+    "stare": "in curs",
+    "rating": null,
+    "data_terminarii": null,
+    "notite": ""
+  },
+  {
+    "titlu": "The Hobbit",
+    "tip": "carte",
+    "autor": "J.R.R. Tolkien",
+    "an": 1937,
+    "stare": "de citit",
+    "rating": null,
+    "data_terminarii": null,
+    "notite": ""
+  }
+]
